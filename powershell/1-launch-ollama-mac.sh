@@ -1,3 +1,5 @@
+#!/bin/bash
+
 DRIVE=""
 
 for vol in "/" /Volumes/*/; do
